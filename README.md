@@ -55,3 +55,6 @@ height="192px"/></a>
 **deividbautista/deividbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile:3.
 ---
 
+
+## Click Application Demo
+This repository contains a simple monolithic application inside the `clickapp` folder. Follow the instructions in [clickapp/README.md](clickapp/README.md) to run it locally.
